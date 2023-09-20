@@ -2,7 +2,7 @@
 
 ### How to Host Locally
 1. Install Node.JS
-2. From Proejct Directory open a terminal and run these commands to initialize node js project, install packages, and run the server
+2. From the Project Directory, open a terminal. Run these commands to initialize a node js project, install packages, and run the server
     - `npm init -y`
     - `npm i express`
     - `npm i bootstrap@5.3.2`
