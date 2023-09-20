@@ -1,5 +1,5 @@
 # image-classifier-js
-
+This application uses Tensorflow.JS and ML5.JS to predict the contents of any image provided. The current version uses the MobileNet pretrained model therefore bias is present.
 ### How to Host Locally
 1. Install Node.JS
 2. From Proejct Directory open a terminal and run these commands to initialize node js project, install packages, and run the server
