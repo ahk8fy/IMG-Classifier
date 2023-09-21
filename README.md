@@ -6,6 +6,6 @@ This application uses Tensorflow.JS and ML5.JS to predict the contents of any im
     - `npm init -y`
     - `npm i express`
     - `npm i bootstrap@5.3.2`
-    - `npm server.js`
+    - `node server.js`
 3. open localhost:8080 in a web browser (port 8080 is set in server.js)
 4. Upload any JPG or PNG to the web app and select "Process Image" for the mobilenet pretrained model to predict the contents.
